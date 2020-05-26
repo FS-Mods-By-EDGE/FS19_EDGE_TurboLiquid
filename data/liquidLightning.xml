@@ -4,7 +4,7 @@
         <name>$l10n_name_liquidLightning</name>
         <specs>
             <neededPower>200</neededPower>
-            <combination>Truck, Dolly, Turbo Kipper</combination>
+            <combination>Truck, Dolly, $l10n_name_turboTrailers</combination>
         </specs>
         <functions>
             <function>$l10n_function_liquidLightning</function>
